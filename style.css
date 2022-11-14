@@ -1,0 +1,81 @@
+.orange{
+    color: orange;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.flexibel-container{
+    display: flex;
+    margin-bottom: 150px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.half-width{
+    width: 50%;
+    padding:2%;
+    margin-top: auto;
+}
+.half-width img{
+    width: 70%;
+    padding: auto;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 5px;
+}
+.my-mission{
+    text-align: center;
+}
+.experience-item{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 20px;
+}
+#color-one{
+    background-color: cyan;
+}
+#color-two{
+    background-color: purple;
+}
+#color-three{
+    background-color: tomato;
+}
+.experience-item img{
+    width: 50%;
+}
+#side-border{
+    border-left: 5px solid;
+    border-color: red;
+    border-image-slice: 1;
+}
+#developer-item{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer{
+    background-color: black;
+    padding: 7px;
+}
+.footer-header{
+    text-align: center;
+    color: white;
+}
+footer p {
+    text-align: center;
+    color: white;
+}
+#footer-date{
+    color: tomato;
+}
